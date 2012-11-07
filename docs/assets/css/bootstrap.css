@@ -955,7 +955,6 @@ select,
 textarea {
   font-size: 14px;
   font-weight: normal;
-  line-height: 20px;
 }
 
 input,
@@ -992,7 +991,6 @@ input[type="color"],
   padding: 4px 6px;
   margin-bottom: 10px;
   font-size: 14px;
-  line-height: 20px;
   color: #555555;
   vertical-align: middle;
   -webkit-border-radius: 4px;
@@ -1613,7 +1611,6 @@ select:focus:required:invalid:focus {
   padding: 4px 5px;
   font-size: 14px;
   font-weight: normal;
-  line-height: 20px;
   text-align: center;
   text-shadow: 0 1px 0 #ffffff;
   background-color: #eeeeee;
@@ -4321,7 +4318,6 @@ input[type="submit"].btn.btn-mini {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 13px;
   font-weight: normal;
-  line-height: 1;
   -webkit-border-radius: 15px;
      -moz-border-radius: 15px;
           border-radius: 15px;
